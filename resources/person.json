@@ -1,0 +1,194 @@
+[
+  {
+    "name": "Alice Smith",
+    "age": 28,
+    "gender": "female",
+    "address": {
+      "street": "456 Oak St",
+      "city": "Somewhere",
+      "state": "TX",
+      "zip": "56789"
+    },
+    "phone": "555-555-1234",
+    "email": "alice.smith@example.com",
+    "occupation": "Marketing Manager",
+    "company": "XYZ Corporation",
+    "salary": 80000
+  },
+  {
+    "name": "Bob Johnson",
+    "age": 45,
+    "gender": "male",
+    "address": {
+      "street": "789 Maple Ave",
+      "city": "Nowhere",
+      "state": "CA",
+      "zip": "34567"
+    },
+    "phone": "555-555-5678",
+    "email": "bob.johnson@example.com",
+    "occupation": "Sales Representative",
+    "company": "ABC Inc.",
+    "salary": 60000
+  },
+  {
+    "name": "Sarah Williams",
+    "age": 32,
+    "gender": "female",
+    "address": {
+      "street": "321 Pine St",
+      "city": "Anywhere",
+      "state": "NY",
+      "zip": "12345"
+    },
+    "phone": "555-555-9012",
+    "email": "sarah.williams@example.com",
+    "occupation": "Software Developer",
+    "company": "PQR Corporation",
+    "salary": 90000
+  },
+  {
+    "name": "Michael Lee",
+    "age": 50,
+    "gender": "male",
+    "address": {
+      "street": "1010 Main St",
+      "city": "Everytown",
+      "state": "FL",
+      "zip": "67890"
+    },
+    "phone": "555-555-3456",
+    "email": "michael.lee@example.com",
+    "occupation": "CEO",
+    "company": "XYZ Corporation",
+    "salary": 200000
+  },
+  {
+    "name": "Emily Chen",
+    "age": 27,
+    "gender": "female",
+    "address": {
+      "street": "555 Elm St",
+      "city": "Nowhere",
+      "state": "CA",
+      "zip": "34567"
+    },
+    "phone": "555-555-7890",
+    "email": "emily.chen@example.com",
+    "occupation": "Data Analyst",
+    "company": "ABC Inc.",
+    "salary": 55000
+  },
+  {
+    "name": "David Brown",
+    "age": 38,
+    "gender": "male",
+    "address": {
+      "street": "222 2nd St",
+      "city": "Anywhere",
+      "state": "NY",
+      "zip": "12345"
+    },
+    "phone": "555-555-2345",
+    "email": "david.brown@example.com",
+    "occupation": "Project Manager",
+    "company": "PQR Corporation",
+    "salary": 75000
+  },
+  {
+      "name": "Alice Smith",
+      "age": 28,
+      "gender": "female",
+      "address": {
+        "street": "456 Oak St",
+        "city": "Somewhere",
+        "state": "TX",
+        "zip": "56789"
+      },
+      "phone": "555-555-1234",
+      "email": "alice.smith@example.com",
+      "occupation": "Marketing Manager",
+      "company": "XYZ Corporation",
+      "salary": 80000
+    },
+    {
+      "name": "Bob Johnson",
+      "age": 45,
+      "gender": "male",
+      "address": {
+        "street": "789 Maple Ave",
+        "city": "Nowhere",
+        "state": "CA",
+        "zip": "34567"
+      },
+      "phone": "555-555-5678",
+      "email": "bob.johnson@example.com",
+      "occupation": "Sales Representative",
+      "company": "ABC Inc.",
+      "salary": 60000
+    },
+    {
+      "name": "Sarah Williams",
+      "age": 32,
+      "gender": "female",
+      "address": {
+        "street": "321 Pine St",
+        "city": "Anywhere",
+        "state": "NY",
+        "zip": "12345"
+      },
+      "phone": "555-555-9012",
+      "email": "sarah.williams@example.com",
+      "occupation": "Software Developer",
+      "company": "PQR Corporation",
+      "salary": 90000
+    },
+    {
+      "name": "Michael Lee",
+      "age": 50,
+      "gender": "male",
+      "address": {
+        "street": "1010 Main St",
+        "city": "Everytown",
+        "state": "FL",
+        "zip": "67890"
+      },
+      "phone": "555-555-3456",
+      "email": "michael.lee@example.com",
+      "occupation": "CEO",
+      "company": "XYZ Corporation",
+      "salary": 200000
+    },
+    {
+      "name": "Emily Chen",
+      "age": 27,
+      "gender": "female",
+      "address": {
+        "street": "555 Elm St",
+        "city": "Nowhere",
+        "state": "CA",
+        "zip": "34567"
+      },
+      "phone": "555-555-7890",
+      "email": "emily.chen@example.com",
+      "occupation": "Data Analyst",
+      "company": "ABC Inc.",
+      "salary": 55000
+    },
+    {
+      "name": "David Brown",
+      "age": 38,
+      "gender": "male",
+      "address": {
+        "street": "222 2nd St",
+        "city": "Anywhere",
+        "state": "NY",
+        "zip": "12345"
+      },
+      "phone": "555-555-2345",
+      "email": "david.brown@example.com",
+      "occupation": "Project Manager",
+      "company": "PQR Corporation",
+      "salary": 75000
+    }]
+

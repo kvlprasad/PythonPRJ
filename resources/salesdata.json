@@ -1,0 +1,99 @@
+
+   [
+    {
+      "date": "2022-01-01",
+      "product": "Nike Air Max 270",
+      "category": "Footwear",
+      "sales": 150,
+      "cost": 100,
+      "profit": 50
+    },
+    {
+      "date": "2022-01-02",
+      "product": "Apple iPhone 13 Pro",
+      "category": "Electronics",
+      "sales": 1000,
+      "cost": 800,
+      "profit": 200
+    },
+    {
+      "date": "2022-01-03",
+      "product": "Calvin Klein T-Shirt",
+      "category": "Apparel",
+      "sales": 50,
+      "cost": 30,
+      "profit": 20
+    },
+    {
+      "date": "2022-01-04",
+      "product": "Amazon Basics HDMI Cable",
+      "category": "Electronics",
+      "sales": 10,
+      "cost": 5,
+      "profit": 5
+    },
+    {
+      "date": "2022-01-05",
+      "product": "Levi's 501 Jeans",
+      "category": "Apparel",
+      "sales": 200,
+      "cost": 150,
+      "profit": 50
+    },
+    {
+      "date": "2022-01-06",
+      "product": "Adidas Ultraboost 21",
+      "category": "Footwear",
+      "sales": 250,
+      "cost": 150,
+      "profit": 100
+    },
+    {
+      "date": "2022-01-07",
+      "product": "Sony WH-1000XM4 Headphones",
+      "category": "Electronics",
+      "sales": 300,
+      "cost": 250,
+      "profit": 50
+    },
+    {
+      "date": "2022-01-08",
+      "product": "The North Face Denali Jacket",
+      "category": "Apparel",
+      "sales": 150,
+      "cost": 100,
+      "profit": 50
+    },
+    {
+      "date": "2022-01-09",
+      "product": "Nike Dri-FIT T-Shirt",
+      "category": "Apparel",
+      "sales": 50,
+      "cost": 30,
+      "profit": 20
+    },
+    {
+      "date": "2022-01-10",
+      "product": "Samsung 55-Inch QLED TV",
+      "category": "Electronics",
+      "sales": 1000,
+      "cost": 800,
+      "profit": 200
+    },
+    {
+      "date": "2022-01-11",
+      "product": "Timberland Premium 6-Inch Boots",
+      "category": "Footwear",
+      "sales": 200,
+      "cost": 150,
+      "profit": 50
+    },
+    {
+      "date": "2022-01-12",
+      "product": "Lululemon Wunder Under Leggings",
+      "category": "Apparel",
+      "sales": 100,
+      "cost": 80,
+      "profit": 20
+    }
+  ]
